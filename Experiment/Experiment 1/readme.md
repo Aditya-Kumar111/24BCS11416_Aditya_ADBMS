@@ -1,8 +1,8 @@
 # Experiment 1
 
-Name: Aditya Garg
+Name: Aditya Kumar
 
-UID: 24BCS10783
+UID: 24BCS11416
 
 ## Aim
 
